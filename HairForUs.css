@@ -75,16 +75,12 @@ body {
   position: absolute;
   width: 100%;
   max-width: 500px;
-  margin-left: 260px;
-  margin-right: 150px;
 }
 
 /* Make the image to responsive */
 .image {
   display: block;
   width: 100%;
-  margin-left: 260px;
-  margin-right: 150px;
 }
 
 /* The overlay effect - lays on top of the container and over the image */
